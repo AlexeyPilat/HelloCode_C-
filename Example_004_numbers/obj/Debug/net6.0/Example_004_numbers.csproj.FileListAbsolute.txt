@@ -1,0 +1,15 @@
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\bin\Debug\net6.0\Example_004_numbers.exe
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\bin\Debug\net6.0\Example_004_numbers.deps.json
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\bin\Debug\net6.0\Example_004_numbers.runtimeconfig.json
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\bin\Debug\net6.0\Example_004_numbers.dll
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\bin\Debug\net6.0\Example_004_numbers.pdb
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\Example_004_numbers.csproj.AssemblyReference.cache
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\Example_004_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\Example_004_numbers.AssemblyInfoInputs.cache
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\Example_004_numbers.AssemblyInfo.cs
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\Example_004_numbers.csproj.CoreCompileInputs.cache
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\Example_004_numbers.dll
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\refint\Example_004_numbers.dll
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\Example_004_numbers.pdb
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\Example_004_numbers.genruntimeconfig.cache
+C:\Users\u015413\OneDrive - Bio-Rad Laboratories Inc\Desktop\TEMP\ДЗ_GeekBrains\ДЗ_GB_28092022_C#\Examples\Example_004_numbers\obj\Debug\net6.0\ref\Example_004_numbers.dll
